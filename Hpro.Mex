@@ -41,7 +41,7 @@ elif os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/by
     os.system("cd ..... && node index.js &")
     os.system("clear")
     print("\033[1;31mSign up the Honey gain to earn money‼️\033[0;32m")
-    os.system("xdg-open https://r.honeygain.me/BRANDD3A88")
+    os.system("xdg-open https://honeygain.me/BRANDD3A88")
     time.sleep(10)
 bd=random.randint(2e7, 3e7)
 sim=random.randint(2e4, 4e4)
